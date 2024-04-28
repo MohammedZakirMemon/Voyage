@@ -71,7 +71,4 @@ To set up the project, follow these steps:
 ### Authors
 
 - Zakir Memon
-- Arpitha Bhat
-- Krishna Madani
-- Preeti Kulkarni
 
