@@ -70,5 +70,5 @@ To set up the project, follow these steps:
 
 ## Author
 
-- Mohammed Zakir Memon
+Mohammed Zakir Memon
 
